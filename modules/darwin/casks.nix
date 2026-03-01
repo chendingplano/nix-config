@@ -20,6 +20,7 @@ _: [
   "obsidian"
   "blender"
   "ghostty"
+  "alacritty"
   "wine-stable"
 
   # Entertainment Tools

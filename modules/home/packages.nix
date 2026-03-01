@@ -85,5 +85,6 @@
       ]
     ))
     lazyjj
+    mitmproxy
   ];
 }

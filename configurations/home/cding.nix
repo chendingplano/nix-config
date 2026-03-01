@@ -11,9 +11,9 @@ in
   # Defined by /modules/home/me.nix
   # And used all around in /modules/home/*
   me = {
-    username = "jimmy";
-    fullname = "Jimmy Ding";
-    email = "git@jimmyding.com";
+    username = "cding";
+    fullname = "Chen Ding";
+    email = "chending0602@hotmail.com";
   };
 
   home.stateVersion = "25.11";
